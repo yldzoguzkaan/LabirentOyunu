@@ -1,6 +1,6 @@
 # LabirentOyunu
 
-===*Projenin amacı C dilinde, bağlantılı liste (link list) ve yığın (stack) kullanılarak rastgele oluşturulan labirentler üzerinden çıkışa ulaştıran kodun yazımıdır.*
+*Projenin amacı C dilinde, bağlantılı liste (link list) ve yığın (stack) kullanılarak rastgele oluşturulan labirentler üzerinden çıkışa ulaştıran kodun yazımıdır.*
 
 -----------------------------------------------------
 #include <stdio.h>
