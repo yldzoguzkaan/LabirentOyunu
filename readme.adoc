@@ -12,4 +12,4 @@ Proje İsterleri: +
  Bulunulan yol ekranda gösterilecek, yolun bulunamaması durumunda “yol yok” mesajı verilecektir. +
  Labirent için grafiksel gösterim öğrencilere bağlıdır. Kullanıcı dostu bir arayüz olması değerlendirmeye etki edecektir. +
 
-image::1.PNG[Giriş,width=50%]
+image::1.PNG[Giriş,width=75%]
