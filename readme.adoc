@@ -11,3 +11,5 @@ Proje İsterleri: +
  Bağlantılı liste ve yığın kullanılarak çıkış yolu bulunmaya çalışılacaktır. Çıkış yolunun tespiti için yığın yapısı kullanarak labirent içinde dolaşması gerekmektedir. +
  Bulunulan yol ekranda gösterilecek, yolun bulunamaması durumunda “yol yok” mesajı verilecektir. +
  Labirent için grafiksel gösterim öğrencilere bağlıdır. Kullanıcı dostu bir arayüz olması değerlendirmeye etki edecektir. +
+
+image::1.PNG[Giriş,width=50%]
